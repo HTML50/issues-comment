@@ -1,7 +1,7 @@
 # issues-comment
 a comment system based on github issues
 
-http://es5.site/issues-comment
+http://es6.top/issues-comment
 
 
 
